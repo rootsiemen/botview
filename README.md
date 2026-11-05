@@ -16,6 +16,10 @@ python3 botview.py audit https://igaf.me
 #    AI Visibility Score: 90/100
 ```
 
+## Try it online
+
+No install needed — run BotView in your browser: [BotView — AI Visibility Checker](https://frinjo.me/botview). Paste any URL and get your AI Visibility Score, every failing check, and the fix for each one.
+
 ## Why AI visibility?
 
 Search is changing. A growing share of your visitors now arrive through AI
